@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnushenkovFinalSertification</string>
+    <string name="add_to_cart">Купить</string>
+    <string name="main">Главная</string>
+    <string name="cart">Корзина</string>
+    <string name="share">Поделиться</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_cart_is_empty">Ваша корзина пуста</string>
+    <string name="to_back">Назад</string>
+</resources>
